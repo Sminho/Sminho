@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20my%20Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Github👋&fontSize=50)
 <!--
 **Sminho/Sminho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
