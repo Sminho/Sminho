@@ -18,6 +18,7 @@ SW/HW : ![C](http://img.shields.io/badge/-C-555555?style=flat-square&logo=C&logo
 Application : ![HTML](http://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS](http://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-f7e018?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white)
 ![Firebase](http://img.shields.io/badge/-Firebase-2C384A?style=flat-square&logo=firebase)
 ![Google Cloud Platform](http://img.shields.io/badge/-Google_Cloud_Platform-34ab53?style=flat-square&logo=GoogleCloud)
 
