@@ -3,6 +3,7 @@
 👨‍💻 Who Am I?
 -
 * ✏️ Undergraduate student at the Department of Electronic and Electrical Engineering at Sungkyunkwan University
+* 🪪 정보처리기사(2023.11.15 취득)
 * 🧡 Interested in Embedded HW/SW
 
 🌱 My Experience
